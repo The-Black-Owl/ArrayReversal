@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class ArrayReversal {
     public static int[] reversed(int[] array){
         int i=0;
         int j= array.length-1;
